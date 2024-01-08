@@ -1,4 +1,4 @@
 # Abeeb Adesina
 ## My Data Science Portfolio
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
